@@ -1,9 +1,22 @@
 
-# MUST KNOW
-* Big O (CCI pg 26-54)
+# Meet and LeetCode Practice Repository
 
-# Resources
-* Cracking the Coding Interview (CCI). Located in `material` folder
+This repository contains solutions and practice materials for coding interview preparation.
 
-# What to study to maximize your ROI
-![Alt text](img/maximize_ROI.png)
+## Must Know Concepts
+* Big O notation and complexity analysis (CCI pg 26-54)
+* Data structures: arrays, linked lists, stacks, queues, trees, graphs, hash tables
+* Algorithms: sorting, searching, dynamic programming, recursion
+* System design fundamentals
+
+## Resources
+* Cracking the Coding Interview (CCI) - Located in `material` folder
+* LeetCode problem solutions organized by date in `solved_problem` folder
+
+## Study Strategy
+Focus on these areas to maximize your return on investment:
+
+![Study ROI Guide](img/maximize_ROI.png)
+
+## Important Notes
+When working with Python type hints, use lowercase `list` instead of uppercase `List` for better compatibility with modern Python versions (3.9+).
