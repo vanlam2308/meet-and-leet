@@ -1,7 +1,5 @@
-from typing import List
-
 class Solution:
-    def lemonadeChange(self, bills: List[int]) -> bool:
+    def lemonadeChange(self, bills: list[int]) -> bool:
         h_map = {5:0, 10:0, 20:0} #Tien thoi. Hash table
         for b in bills:
             if b == 5:
