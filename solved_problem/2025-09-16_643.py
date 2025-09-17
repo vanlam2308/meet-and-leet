@@ -24,5 +24,5 @@ class Solution:
         #       -  -   -  -      => cur = 4 => max = 4
         #          -   -  - -
 
-        #Space Complexity: O(1) 
+        #Space Complexity: O(k) for storing the sum of k elements
         #Time complexity: O(n) through for loop one time
