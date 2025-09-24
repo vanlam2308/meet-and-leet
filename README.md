@@ -18,5 +18,11 @@ Focus on these areas to maximize your return on investment:
 
 ![Study ROI Guide](img/maximize_ROI.png)
 
+## For serious study
+Sign up algomonster here with discount:
+
+https://algo.monster/referral?ref=250d64553fd306b82dc8521dd62a26838894e48346a14632905fb9418ec5e210
+
 ## Important Notes
 When working with Python type hints, use lowercase `list` instead of uppercase `List` for better compatibility with modern Python versions (3.9+).
+
